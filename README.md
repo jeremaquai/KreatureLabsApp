@@ -224,7 +224,7 @@ Project Link: [https://github.com/jeremaquai/KreatureLabsApp](https://github.com
 [issues-shield]: https://img.shields.io/github/issues/jeremaquai/KreatureLabsApp.svg?style=for-the-badge
 [issues-url]: https://github.com/jeremaquai/KreatureLabsApp/issues
 [license-shield]: https://img.shields.io/github/license/jeremaquai/KreatureLabsApp.svg?style=for-the-badge
-[license-url]: https://github.com/jeremaquai/KreatureLabsApp/blob/master/LICENSE.txt
+[license-url]: https://github.com/jeremaquai/KreatureLabsApp/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jeremiah-sparks-0ba36a239
 [product-screenshot]: images/screenshot.png
