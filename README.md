@@ -84,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `jeremaquai`, `KreatureLabsApp`, `twitter_handle`, `jeremiah-sparks-0ba36a239`, `gmail`, `jeremaquai`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following:  `twitter_handle`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,14 +92,14 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Django](https://www.djangoproject.com/)
+* [asgiref](https://pypi.org/project/asgiref/)
+* [sqlparse](https://pypi.org/project/sqlparse/)
+* []()
+* []()
+* []()
+* []()
+* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -153,10 +153,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [X] User Accounts
+- [ ] Home Page
+- [ ] Blog Posts
+    - [ ] Users comment on blog posts
 
 See the [open issues](https://github.com/jeremaquai/KreatureLabsApp/issues) for a full list of proposed features (and known issues).
 
